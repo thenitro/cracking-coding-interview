@@ -1,0 +1,6 @@
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.exe
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.pdb
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csprojAssemblyReference.cache
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csproj.CoreCompileInputs.cache
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.exe
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.pdb
