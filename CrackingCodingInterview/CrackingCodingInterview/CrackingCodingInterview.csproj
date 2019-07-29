@@ -42,6 +42,7 @@
     <Compile Include="ArraysAndStrings\Task12.cs" />
     <Compile Include="ArraysAndStrings\Task13.cs" />
     <Compile Include="ArraysAndStrings\Task14.cs" />
+    <Compile Include="ArraysAndStrings\Task15.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
