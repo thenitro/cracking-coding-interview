@@ -11,6 +11,7 @@
           <e p="Task13.cs" t="Include" />
           <e p="Task14.cs" t="Include" />
           <e p="Task15.cs" t="Include" />
+          <e p="Task16.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="CrackingCodingInterview.csproj" t="IncludeRecursive" />
