@@ -1,4 +1,4 @@
-﻿using Algorithms.RandomTests.CrackingCodingInterview;
+﻿using CrackingCodingInterview.LinkedLists;
 
 namespace CrackingCodingInterview
 {
@@ -6,7 +6,8 @@ namespace CrackingCodingInterview
     {
         public static void Main(string[] args)
         {
-            new Task19();
+            new Task21();
+            //new Task19();
             //new Task18();
             //new Task17();
             //new Task16();
