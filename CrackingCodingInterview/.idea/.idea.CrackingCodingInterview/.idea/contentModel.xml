@@ -21,6 +21,7 @@
         <e p="LinkedLists" t="Include">
           <e p="Node.cs" t="Include" />
           <e p="Task21.cs" t="Include" />
+          <e p="Task22.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />

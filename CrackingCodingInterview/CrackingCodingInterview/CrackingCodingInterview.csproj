@@ -49,6 +49,7 @@
     <Compile Include="ArraysAndStrings\Task19.cs" />
     <Compile Include="LinkedLists\Node.cs" />
     <Compile Include="LinkedLists\Task21.cs" />
+    <Compile Include="LinkedLists\Task22.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
