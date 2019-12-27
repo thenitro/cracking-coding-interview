@@ -25,8 +25,10 @@ namespace CrackingCodingInterview.LinkedLists
 
             Console.WriteLine(Solve(node, 0).Value);
             Console.WriteLine(Solve(node, 1).Value);
-            Console.WriteLine(Solve(node, 6).Value);
-            Console.WriteLine(Solve(node, 7).Value);
+            Console.WriteLine(Solve(node, 2).Value);
+            Console.WriteLine(Solve(node, 3).Value);
+            Console.WriteLine(Solve(node, 4).Value);
+            Console.WriteLine(Solve(node, 5).Value);
         }
 
         private Node Solve(Node root, int n)
@@ -41,7 +43,7 @@ namespace CrackingCodingInterview.LinkedLists
                 next = next.Next;
                 count++;
                 
-                if (count >= n && next != null)
+                if (count > n && next != null)
                 {
                     next2 = next2.Next;
                 }
