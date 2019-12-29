@@ -52,6 +52,7 @@
     <Compile Include="LinkedLists\Task22.cs" />
     <Compile Include="LinkedLists\Task23.cs" />
     <Compile Include="LinkedLists\Task24.cs" />
+    <Compile Include="LinkedLists\Task25.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

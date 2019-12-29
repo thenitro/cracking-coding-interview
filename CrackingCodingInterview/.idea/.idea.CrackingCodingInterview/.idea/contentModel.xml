@@ -24,6 +24,7 @@
           <e p="Task22.cs" t="Include" />
           <e p="Task23.cs" t="Include" />
           <e p="Task24.cs" t="Include" />
+          <e p="Task25.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />

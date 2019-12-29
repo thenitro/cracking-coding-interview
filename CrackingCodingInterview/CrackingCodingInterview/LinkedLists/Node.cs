@@ -1,3 +1,5 @@
+using System;
+
 namespace CrackingCodingInterview.LinkedLists
 {
     public class Node
@@ -8,6 +10,19 @@ namespace CrackingCodingInterview.LinkedLists
         public Node(int value)
         {
             Value = value;
+        }
+        
+        public void Print()
+        {
+            var next = this;
+            
+            while (next != null)
+            {
+                Console.Write("->" + next.Value);
+                next = next.Next;
+            }
+
+            Console.WriteLine();
         }
     }
 }

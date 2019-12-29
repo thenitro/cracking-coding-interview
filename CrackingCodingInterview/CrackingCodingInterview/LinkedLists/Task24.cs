@@ -26,21 +26,9 @@ namespace CrackingCodingInterview.LinkedLists
                 }
             };
 
-            PrintList(node);
+            node.Print();
             var newHead = Solve(node, 5);
-            PrintList(newHead);
-        }
-        
-        
-        private void PrintList(Node root)
-        {
-            while (root != null)
-            {
-                Console.Write("->" + root.Value);
-                root = root.Next;
-            }
-
-            Console.WriteLine();
+            newHead.Print();
         }
 
         private Node Solve(Node root, int value)
