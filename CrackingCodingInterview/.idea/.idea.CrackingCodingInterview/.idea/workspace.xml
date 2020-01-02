@@ -4,13 +4,11 @@
     <list default="true" id="0c53b473-fd6a-4033-bae2-5934ae0f9e50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task11.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task11.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.pdb" afterDir="false" />
     </list>
@@ -23,14 +21,14 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task27.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="690">
-                  <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+                <state relative-caret-position="630">
+                  <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
                   <folding>
-                    <marker date="1577952488572" expanded="true" signature="6:47" ph="..." />
+                    <marker date="1577952488572" expanded="false" signature="6:47" ph="..." />
                     <marker date="1577952488572" expanded="true" signature="94:1427" ph="{...}" />
                     <marker date="1577952488572" expanded="true" signature="120:1425" ph="{...}" />
                     <marker date="1577952488572" expanded="true" signature="150:876" ph="{...}" />
@@ -50,13 +48,13 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task28.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="444">
-                  <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+                <state relative-caret-position="240">
+                  <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
                   <folding>
-                    <marker date="1577952768059" expanded="true" signature="6:47" ph="..." />
+                    <marker date="1577952768059" expanded="false" signature="6:47" ph="..." />
                     <marker date="1577952768059" expanded="true" signature="94:1254" ph="{...}" />
                     <marker date="1577952768059" expanded="true" signature="120:1252" ph="{...}" />
                     <marker date="1577952768059" expanded="true" signature="150:788" ph="{...}" />
@@ -74,20 +72,61 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomNStack.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="870">
+                  <caret line="58" column="41" lean-forward="true" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+                  <folding>
+                    <marker date="1577973321892" expanded="true" signature="84:1458" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="119:1456" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="283:434" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="470:652" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="518:581" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="699:893" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="751:803" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="928:1263" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="976:1039" ph="{...}" />
+                    <marker date="1577973321892" expanded="true" signature="1309:1450" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+                  <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
                   <folding>
-                    <marker date="1577952769939" expanded="true" signature="77:577" ph="{...}" />
-                    <marker date="1577952769939" expanded="true" signature="106:575" ph="{...}" />
-                    <marker date="1577952769939" expanded="true" signature="159:569" ph="{...}" />
-                    <marker date="1577952769939" expanded="true" signature="208:559" ph="/* new Task27(); ... */" />
+                    <marker date="1577953637205" expanded="false" signature="6:89" ph="..." />
+                    <marker date="1577953637205" expanded="true" signature="124:652" ph="{...}" />
+                    <marker date="1577953637205" expanded="true" signature="153:650" ph="{...}" />
+                    <marker date="1577953637205" expanded="true" signature="206:644" ph="{...}" />
+                    <marker date="1577953637205" expanded="true" signature="255:634" ph="/* new Task28(); ... */" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/Task31.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+                  <folding>
+                    <marker date="1577973313511" expanded="true" signature="64:721" ph="{...}" />
+                    <marker date="1577973313511" expanded="true" signature="90:719" ph="{...}" />
+                    <marker date="1577973313511" expanded="true" signature="120:713" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -115,7 +154,9 @@
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task16.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task14.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task18.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomNStack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task17.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/Task31.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task19.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task11.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -138,8 +179,12 @@
         <option value="$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task26.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task11.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task27.cs" />
-        <option value="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task28.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomStack.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/Task31.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomNStack.cs" />
       </list>
     </option>
   </component>
@@ -156,31 +201,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LinkedLists" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,6 +215,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,12 +271,13 @@
       <workItem from="1577475449397" duration="1291000" />
       <workItem from="1577638846883" duration="1930000" />
       <workItem from="1577951603342" duration="126000" />
-      <workItem from="1577952092891" duration="676000" />
+      <workItem from="1577952092891" duration="3025000" />
+      <workItem from="1577967286571" duration="2689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20992000" />
+    <option name="totallyTimeSpent" value="26030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,14 +292,14 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,8 +311,8 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5010661" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -572,9 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task25.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -621,10 +645,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task27.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="630">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
           <folding>
-            <marker date="1577952488572" expanded="true" signature="6:47" ph="..." />
+            <marker date="1577952488572" expanded="false" signature="6:47" ph="..." />
             <marker date="1577952488572" expanded="true" signature="94:1427" ph="{...}" />
             <marker date="1577952488572" expanded="true" signature="120:1425" ph="{...}" />
             <marker date="1577952488572" expanded="true" signature="150:876" ph="{...}" />
@@ -643,25 +667,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <marker date="1577952769939" expanded="true" signature="77:577" ph="{...}" />
-            <marker date="1577952769939" expanded="true" signature="106:575" ph="{...}" />
-            <marker date="1577952769939" expanded="true" signature="159:569" ph="{...}" />
-            <marker date="1577952769939" expanded="true" signature="208:559" ph="/* new Task27(); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/LinkedLists/Task28.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <marker date="1577952768059" expanded="true" signature="6:47" ph="..." />
+            <marker date="1577952768059" expanded="false" signature="6:47" ph="..." />
             <marker date="1577952768059" expanded="true" signature="94:1254" ph="{...}" />
             <marker date="1577952768059" expanded="true" signature="120:1252" ph="{...}" />
             <marker date="1577952768059" expanded="true" signature="150:788" ph="{...}" />
@@ -674,6 +685,54 @@
             <marker date="1577952768059" expanded="true" signature="943:1210" ph="{...}" />
             <marker date="1577952768059" expanded="true" signature="997:1066" ph="{...}" />
             <marker date="1577952768059" expanded="true" signature="1087:1196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <marker date="1577953637205" expanded="false" signature="6:89" ph="..." />
+            <marker date="1577953637205" expanded="true" signature="124:652" ph="{...}" />
+            <marker date="1577953637205" expanded="true" signature="153:650" ph="{...}" />
+            <marker date="1577953637205" expanded="true" signature="206:644" ph="{...}" />
+            <marker date="1577953637205" expanded="true" signature="255:634" ph="/* new Task28(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/Task31.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1577973313511" expanded="true" signature="64:721" ph="{...}" />
+            <marker date="1577973313511" expanded="true" signature="90:719" ph="{...}" />
+            <marker date="1577973313511" expanded="true" signature="120:713" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomNStack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="41" lean-forward="true" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+          <folding>
+            <marker date="1577973321892" expanded="true" signature="84:1458" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="119:1456" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="283:434" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="470:652" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="518:581" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="699:893" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="751:803" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="928:1263" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="976:1039" ph="{...}" />
+            <marker date="1577973321892" expanded="true" signature="1309:1450" ph="{...}" />
           </folding>
         </state>
       </provider>
