@@ -4,3 +4,8 @@ D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj
 D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csproj.CoreCompileInputs.cache
 D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.exe
 D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.pdb
+E:\code\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.exe
+E:\code\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.pdb
+E:\code\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csprojResolveAssemblyReference.cache
+E:\code\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.exe
+E:\code\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.pdb
