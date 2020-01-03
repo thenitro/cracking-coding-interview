@@ -59,7 +59,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StacksAndQueues\CustomNStack.cs" />
+    <Compile Include="StacksAndQueues\CustomMinMaxStack.cs" />
     <Compile Include="StacksAndQueues\Task31.cs" />
+    <Compile Include="StacksAndQueues\Task32.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
