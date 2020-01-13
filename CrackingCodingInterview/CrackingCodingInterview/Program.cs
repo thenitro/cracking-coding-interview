@@ -7,7 +7,8 @@ namespace CrackingCodingInterview
     {
         public static void Main(string[] args)
         {
-            new Task32();
+            new Task33();
+            //new Task32();
             //new Task31();
             //new Task28();
             //new Task27();
