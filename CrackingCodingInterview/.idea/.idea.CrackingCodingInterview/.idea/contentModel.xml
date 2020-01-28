@@ -37,10 +37,12 @@
         <e p="StacksAndQueues" t="Include">
           <e p="CustomMinMaxStack.cs" t="Include" />
           <e p="CustomNStack.cs" t="Include" />
+          <e p="MyQueue.cs" t="Include" />
           <e p="SetOfStacks.cs" t="Include" />
           <e p="Task31.cs" t="Include" />
           <e p="Task32.cs" t="Include" />
           <e p="Task33.cs" t="Include" />
+          <e p="Task34.cs" t="Include" />
         </e>
       </e>
       <e p="CrackingCodingInterview.sln" t="IncludeFlat" />
