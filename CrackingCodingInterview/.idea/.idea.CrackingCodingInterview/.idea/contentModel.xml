@@ -35,6 +35,7 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
+          <e p="CatDogQueue.cs" t="Include" />
           <e p="CustomMinMaxStack.cs" t="Include" />
           <e p="CustomNStack.cs" t="Include" />
           <e p="MinStack.cs" t="Include" />
@@ -45,6 +46,7 @@
           <e p="Task33.cs" t="Include" />
           <e p="Task34.cs" t="Include" />
           <e p="Task35.cs" t="Include" />
+          <e p="Task36.cs" t="Include" />
         </e>
       </e>
       <e p="CrackingCodingInterview.sln" t="IncludeFlat" />
