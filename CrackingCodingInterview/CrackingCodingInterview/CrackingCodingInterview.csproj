@@ -47,6 +47,10 @@
     <Compile Include="ArraysAndStrings\Task17.cs" />
     <Compile Include="ArraysAndStrings\Task18.cs" />
     <Compile Include="ArraysAndStrings\Task19.cs" />
+    <Compile Include="GraphsAndTrees\BinaryTreeNode.cs" />
+    <Compile Include="GraphsAndTrees\Graph.cs" />
+    <Compile Include="GraphsAndTrees\Task41.cs" />
+    <Compile Include="GraphsAndTrees\Task42.cs" />
     <Compile Include="LinkedLists\Node.cs" />
     <Compile Include="LinkedLists\Task21.cs" />
     <Compile Include="LinkedLists\Task22.cs" />

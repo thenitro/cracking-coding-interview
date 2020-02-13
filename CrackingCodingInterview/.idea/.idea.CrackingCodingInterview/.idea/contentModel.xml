@@ -18,6 +18,12 @@
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="CrackingCodingInterview.csproj" t="IncludeRecursive" />
+        <e p="GraphsAndTrees" t="Include">
+          <e p="BinaryTreeNode.cs" t="Include" />
+          <e p="Graph.cs" t="Include" />
+          <e p="Task41.cs" t="Include" />
+          <e p="Task42.cs" t="Include" />
+        </e>
         <e p="LinkedLists" t="Include">
           <e p="Node.cs" t="Include" />
           <e p="Task21.cs" t="Include" />

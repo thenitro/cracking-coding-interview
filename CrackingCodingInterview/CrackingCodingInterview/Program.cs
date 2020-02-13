@@ -1,4 +1,5 @@
-﻿using CrackingCodingInterview.LinkedLists;
+﻿using CrackingCodingInterview.GraphsAndTrees;
+using CrackingCodingInterview.LinkedLists;
 using CrackingCodingInterview.StacksAndQueues;
 
 namespace CrackingCodingInterview
@@ -7,7 +8,9 @@ namespace CrackingCodingInterview
     {
         public static void Main(string[] args)
         {
-            new Task35();
+            new Task42();
+            //new Task41();
+            //new Task35();
             //new Task34();
             //new Task33();
             //new Task32();
