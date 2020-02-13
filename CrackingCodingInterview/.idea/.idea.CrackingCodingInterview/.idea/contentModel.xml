@@ -23,6 +23,7 @@
           <e p="Graph.cs" t="Include" />
           <e p="Task41.cs" t="Include" />
           <e p="Task42.cs" t="Include" />
+          <e p="Task43.cs" t="Include" />
         </e>
         <e p="LinkedLists" t="Include">
           <e p="Node.cs" t="Include" />
