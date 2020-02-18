@@ -2,8 +2,8 @@ using System.Collections.Generic;
 
 namespace CrackingCodingInterview.GraphsAndTrees
 {
-    public class Graph
+    public class Graph<T>
     {
-        public Dictionary<int, List<int>> Nodes;
+        public Dictionary<T, List<T>> Nodes;
     }
 }

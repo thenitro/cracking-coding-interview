@@ -7,7 +7,7 @@ namespace CrackingCodingInterview.GraphsAndTrees
     {
         public Task41()
         {
-            var graph = new Graph()
+            var graph = new Graph<int>()
             {
                 Nodes = new Dictionary<int, List<int>>()
                 {
@@ -20,7 +20,7 @@ namespace CrackingCodingInterview.GraphsAndTrees
             Console.WriteLine(false == Solve(graph, 1, 4));
         }
 
-        private bool Solve(Graph graph, int start, int finish)
+        private bool Solve(Graph<int> graph, int start, int finish)
         {
             var visited = new HashSet<int>();
             
