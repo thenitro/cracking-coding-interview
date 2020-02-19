@@ -5,6 +5,7 @@ namespace CrackingCodingInterview.GraphsAndTrees
         public BinaryTreeNode Left;
         public BinaryTreeNode Right;
         public int Value;
+        public BinaryTreeNode Parent;
 
         public BinaryTreeNode(int value = 0)
         {
