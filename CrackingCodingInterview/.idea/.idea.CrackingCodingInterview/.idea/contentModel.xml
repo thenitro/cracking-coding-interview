@@ -28,6 +28,7 @@
           <e p="Task45.cs" t="Include" />
           <e p="Task46.cs" t="Include" />
           <e p="Task47.cs" t="Include" />
+          <e p="Task48.cs" t="Include" />
         </e>
         <e p="LinkedLists" t="Include">
           <e p="Node.cs" t="Include" />
