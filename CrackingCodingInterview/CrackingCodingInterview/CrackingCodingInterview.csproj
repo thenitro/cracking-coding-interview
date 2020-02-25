@@ -52,6 +52,7 @@
     <Compile Include="GraphsAndTrees\Task41.cs" />
     <Compile Include="GraphsAndTrees\Task410.cs" />
     <Compile Include="GraphsAndTrees\Task411.cs" />
+    <Compile Include="GraphsAndTrees\Task412.cs" />
     <Compile Include="GraphsAndTrees\Task42.cs" />
     <Compile Include="GraphsAndTrees\Task43.cs" />
     <Compile Include="GraphsAndTrees\Task44.cs" />
