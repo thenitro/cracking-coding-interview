@@ -17,6 +17,9 @@
           <e p="Task19.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BitManipulation" t="Include">
+          <e p="Task51.cs" t="Include" />
+        </e>
         <e p="CrackingCodingInterview.csproj" t="IncludeRecursive" />
         <e p="GraphsAndTrees" t="Include">
           <e p="BinaryTreeNode.cs" t="Include" />

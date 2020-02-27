@@ -1,4 +1,5 @@
 ﻿using CrackingCodingInterview.GraphsAndTrees;
+using CrackingCodingInterview.BitManipulation;
 
 namespace CrackingCodingInterview
 {
@@ -6,7 +7,8 @@ namespace CrackingCodingInterview
     {
         public static void Main(string[] args)
         {
-            new Task412();
+            new Task51();
+            //new Task412();
             //new Task411();
             //new Task410();
             //new Task49();
