@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CrackingCodingInterview.-1442635019.00" t="ExcludeRecursive" />
-    <e p="E:\code\cracking-coding-interview\CrackingCodingInterview" t="IncludeFlat">
+    <e p="C:\Users\thenitro\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thenitro\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CrackingCodingInterview.-2142148835.00" t="ExcludeRecursive" />
+    <e p="D:\cracking-coding-interview\CrackingCodingInterview" t="IncludeFlat">
       <e p="CrackingCodingInterview" t="IncludeRecursive">
         <e p="ArraysAndStrings" t="Include">
           <e p="Task11.cs" t="Include" />
@@ -19,6 +19,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="BitManipulation" t="Include">
           <e p="Task51.cs" t="Include" />
+          <e p="Task52.cs" t="Include" />
         </e>
         <e p="CrackingCodingInterview.csproj" t="IncludeRecursive" />
         <e p="GraphsAndTrees" t="Include">
