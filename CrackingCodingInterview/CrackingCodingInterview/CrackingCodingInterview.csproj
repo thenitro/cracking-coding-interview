@@ -49,6 +49,8 @@
     <Compile Include="ArraysAndStrings\Task19.cs" />
     <Compile Include="BitManipulation\Task51.cs" />
     <Compile Include="BitManipulation\Task52.cs" />
+    <Compile Include="BitManipulation\Task53.cs" />
+    <Compile Include="BitManipulation\Task54.cs" />
     <Compile Include="GraphsAndTrees\BinaryTreeNode.cs" />
     <Compile Include="GraphsAndTrees\Graph.cs" />
     <Compile Include="GraphsAndTrees\Task41.cs" />
