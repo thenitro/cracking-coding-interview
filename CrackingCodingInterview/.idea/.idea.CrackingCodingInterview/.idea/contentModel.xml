@@ -22,6 +22,7 @@
           <e p="Task52.cs" t="Include" />
           <e p="Task53.cs" t="Include" />
           <e p="Task54.cs" t="Include" />
+          <e p="Task56.cs" t="Include" />
         </e>
         <e p="CrackingCodingInterview.csproj" t="IncludeRecursive" />
         <e p="GraphsAndTrees" t="Include">
