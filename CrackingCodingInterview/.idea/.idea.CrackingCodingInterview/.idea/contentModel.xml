@@ -66,6 +66,7 @@
           <e p="Task86.cs" t="Include" />
           <e p="Task87.cs" t="Include" />
           <e p="Task88.cs" t="Include" />
+          <e p="Task89.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="CatDogQueue.cs" t="Include" />
