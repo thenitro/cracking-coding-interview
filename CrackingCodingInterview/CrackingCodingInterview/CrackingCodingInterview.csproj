@@ -83,6 +83,7 @@
     <Compile Include="RecursionAndDp\Task811.cs" />
     <Compile Include="RecursionAndDp\Task812.cs" />
     <Compile Include="RecursionAndDp\Task813.cs" />
+    <Compile Include="RecursionAndDp\Task814.cs" />
     <Compile Include="RecursionAndDp\Task82.cs" />
     <Compile Include="RecursionAndDp\Task83.cs" />
     <Compile Include="RecursionAndDp\Task84.cs" />
@@ -91,6 +92,7 @@
     <Compile Include="RecursionAndDp\Task87.cs" />
     <Compile Include="RecursionAndDp\Task88.cs" />
     <Compile Include="RecursionAndDp\Task89.cs" />
+    <Compile Include="SortingAndSearching\Task101.cs" />
     <Compile Include="StacksAndQueues\CatDogQueue.cs" />
     <Compile Include="StacksAndQueues\CustomNStack.cs" />
     <Compile Include="StacksAndQueues\CustomMinMaxStack.cs" />

@@ -1,6 +1,7 @@
 ﻿using CrackingCodingInterview.GraphsAndTrees;
 using CrackingCodingInterview.BitManipulation;
 using CrackingCodingInterview.RecursionAndDp;
+using CrackingCodingInterview.SortingAndSearching;
 
 namespace CrackingCodingInterview
 {
@@ -8,7 +9,9 @@ namespace CrackingCodingInterview
     {
         public static void Main(string[] args)
         {
-            new Task813();
+            new Task101();
+            //new Task814();
+            //new Task813();
             //new Task812();
             //new Task811();
             //new Task810();

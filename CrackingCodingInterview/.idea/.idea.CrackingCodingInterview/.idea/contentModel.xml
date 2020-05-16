@@ -63,6 +63,7 @@
           <e p="Task811.cs" t="Include" />
           <e p="Task812.cs" t="Include" />
           <e p="Task813.cs" t="Include" />
+          <e p="Task814.cs" t="Include" />
           <e p="Task82.cs" t="Include" />
           <e p="Task83.cs" t="Include" />
           <e p="Task84.cs" t="Include" />
@@ -71,6 +72,9 @@
           <e p="Task87.cs" t="Include" />
           <e p="Task88.cs" t="Include" />
           <e p="Task89.cs" t="Include" />
+        </e>
+        <e p="SortingAndSearching" t="Include">
+          <e p="Task101.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="CatDogQueue.cs" t="Include" />
