@@ -93,6 +93,7 @@
     <Compile Include="RecursionAndDp\Task88.cs" />
     <Compile Include="RecursionAndDp\Task89.cs" />
     <Compile Include="SortingAndSearching\Task101.cs" />
+    <Compile Include="SortingAndSearching\Task102.cs" />
     <Compile Include="StacksAndQueues\CatDogQueue.cs" />
     <Compile Include="StacksAndQueues\CustomNStack.cs" />
     <Compile Include="StacksAndQueues\CustomMinMaxStack.cs" />
