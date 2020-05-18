@@ -76,6 +76,7 @@
         <e p="SortingAndSearching" t="Include">
           <e p="Task101.cs" t="Include" />
           <e p="Task102.cs" t="Include" />
+          <e p="Task103.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="CatDogQueue.cs" t="Include" />
