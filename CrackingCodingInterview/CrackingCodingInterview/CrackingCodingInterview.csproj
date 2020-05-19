@@ -95,6 +95,7 @@
     <Compile Include="SortingAndSearching\Task101.cs" />
     <Compile Include="SortingAndSearching\Task102.cs" />
     <Compile Include="SortingAndSearching\Task103.cs" />
+    <Compile Include="SortingAndSearching\Task104.cs" />
     <Compile Include="StacksAndQueues\CatDogQueue.cs" />
     <Compile Include="StacksAndQueues\CustomNStack.cs" />
     <Compile Include="StacksAndQueues\CustomMinMaxStack.cs" />
