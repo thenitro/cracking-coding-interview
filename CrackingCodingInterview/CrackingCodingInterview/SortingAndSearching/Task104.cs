@@ -25,7 +25,7 @@ namespace CrackingCodingInterview.SortingAndSearching
             {
                 var mid = (lo + hi) / 2;
                 var middle = array[mid];
-                
+                    
                 if (middle > value || middle == -1)
                 {
                     hi = mid - 1;
