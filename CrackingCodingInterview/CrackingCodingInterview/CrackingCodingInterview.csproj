@@ -93,6 +93,7 @@
     <Compile Include="RecursionAndDp\Task88.cs" />
     <Compile Include="RecursionAndDp\Task89.cs" />
     <Compile Include="SortingAndSearching\Task101.cs" />
+    <Compile Include="SortingAndSearching\Task1010.cs" />
     <Compile Include="SortingAndSearching\Task102.cs" />
     <Compile Include="SortingAndSearching\Task103.cs" />
     <Compile Include="SortingAndSearching\Task104.cs" />

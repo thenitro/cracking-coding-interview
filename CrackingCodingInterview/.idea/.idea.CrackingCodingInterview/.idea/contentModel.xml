@@ -75,6 +75,7 @@
         </e>
         <e p="SortingAndSearching" t="Include">
           <e p="Task101.cs" t="Include" />
+          <e p="Task1010.cs" t="Include" />
           <e p="Task102.cs" t="Include" />
           <e p="Task103.cs" t="Include" />
           <e p="Task104.cs" t="Include" />
