@@ -76,6 +76,9 @@
     <Compile Include="LinkedLists\Task26.cs" />
     <Compile Include="LinkedLists\Task27.cs" />
     <Compile Include="LinkedLists\Task28.cs" />
+    <Compile Include="Moderate\Line.cs" />
+    <Compile Include="Moderate\Point.cs" />
+    <Compile Include="Moderate\Task163.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecursionAndDp\Task81.cs" />
@@ -94,6 +97,7 @@
     <Compile Include="RecursionAndDp\Task89.cs" />
     <Compile Include="SortingAndSearching\Task101.cs" />
     <Compile Include="SortingAndSearching\Task1010.cs" />
+    <Compile Include="SortingAndSearching\Task1011.cs" />
     <Compile Include="SortingAndSearching\Task102.cs" />
     <Compile Include="SortingAndSearching\Task103.cs" />
     <Compile Include="SortingAndSearching\Task104.cs" />
