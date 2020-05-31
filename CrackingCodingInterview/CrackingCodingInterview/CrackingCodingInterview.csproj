@@ -79,6 +79,7 @@
     <Compile Include="Moderate\Line.cs" />
     <Compile Include="Moderate\Point.cs" />
     <Compile Include="Moderate\Task163.cs" />
+    <Compile Include="Moderate\Task167.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecursionAndDp\Task81.cs" />
