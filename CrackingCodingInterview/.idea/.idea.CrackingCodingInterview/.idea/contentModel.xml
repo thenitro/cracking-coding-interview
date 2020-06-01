@@ -57,6 +57,7 @@
           <e p="Point.cs" t="Include" />
           <e p="Task163.cs" t="Include" />
           <e p="Task167.cs" t="Include" />
+          <e p="Task169.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />

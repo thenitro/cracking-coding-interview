@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c53b473-fd6a-4033-bae2-5934ae0f9e50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrackingCodingInterview/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/CrackingCodingInterview.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe" afterDir="false" />
@@ -36,14 +36,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding>
-                <marker date="1590912429094" expanded="false" signature="6:229" ph="..." />
-                <marker date="1590912429094" expanded="true" signature="264:2100" ph="{...}" />
-                <marker date="1590912429094" expanded="true" signature="293:2098" ph="{...}" />
-                <marker date="1590912429094" expanded="true" signature="346:2092" ph="{...}" />
-                <marker date="1590912429094" expanded="true" signature="396:2082" ph="/* new Task163(); ... */" />
+                <marker date="1591007829641" expanded="false" signature="6:229" ph="..." />
+                <marker date="1591007829641" expanded="true" signature="264:2129" ph="{...}" />
+                <marker date="1591007829641" expanded="true" signature="293:2127" ph="{...}" />
+                <marker date="1591007829641" expanded="true" signature="346:2121" ph="{...}" />
+                <marker date="1591007829641" expanded="true" signature="396:2111" ph="/* new Task167(); ... */" />
               </folding>
             </state>
           </provider>
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task167.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="-101">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
               <folding>
                 <marker date="1590912421184" expanded="true" signature="57:819" ph="{...}" />
                 <marker date="1590912421184" expanded="true" signature="84:817" ph="{...}" />
@@ -86,6 +86,33 @@
                 <marker date="1590912421184" expanded="true" signature="296:637" ph="{...}" />
                 <marker date="1590912421184" expanded="true" signature="670:732" ph="{...}" />
                 <marker date="1590912421184" expanded="true" signature="765:811" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task169.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+              <folding>
+                <marker date="1591015426151" expanded="true" signature="57:2123" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="84:2121" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="115:465" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="500:989" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="641:951" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="754:827" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1030:1084" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1128:1500" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1161:1228" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1312:1366" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1390:1453" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1542:1955" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1576:1670" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1830:1912" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="1987:2115" ph="{...}" />
+                <marker date="1591015426151" expanded="true" signature="2020:2082" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -138,6 +165,7 @@
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/BitManipulation/Task54.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task17.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/SortingAndSearching/Task105.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task169.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task19.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/StacksAndQueues/CustomNStack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CrackingCodingInterview/ArraysAndStrings/Task18.cs" root0="FORCE_HIGHLIGHTING" />
@@ -200,7 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/GraphNode.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/Task42.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/Task43.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/Task44.cs" />
@@ -249,8 +276,9 @@
         <option value="$PROJECT_DIR$/CrackingCodingInterview/Moderate/Line.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task163.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task167.cs" />
-        <option value="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" />
         <option value="$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task168.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/Program.cs" />
+        <option value="$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task169.cs" />
       </list>
     </option>
   </component>
@@ -267,6 +295,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -288,18 +328,6 @@
           </expand>
           <select />
         </subPane>
-      </pane>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CrackingCodingInterview" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
     </panes>
@@ -411,11 +439,12 @@
       <workItem from="1590394542458" duration="1079000" />
       <workItem from="1590747970251" duration="1669000" />
       <workItem from="1590912154608" duration="855000" />
+      <workItem from="1591007684362" duration="1414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103759000" />
+    <option name="totallyTimeSpent" value="105173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,15 +457,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32719395" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -485,30 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/Task46.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <marker date="1582111488837" expanded="false" signature="6:37" ph="..." />
-            <marker date="1582111488837" expanded="true" signature="87:2105" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="113:2103" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="143:1409" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="271:316" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="389:435" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="513:559" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="704:749" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="827:874" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="948:995" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="1471:1884" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="1517:1595" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="1743:1846" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="1951:2097" ph="{...}" />
-            <marker date="1582111488837" expanded="true" signature="1999:2061" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/GraphsAndTrees/Task48.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1043,6 +1049,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task168.cs" />
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task163.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding>
+            <marker date="1590749044765" expanded="true" signature="57:2415" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="84:2413" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="115:246" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="330:1732" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="465:529" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="565:629" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="667:767" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="1057:1299" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="1184:1255" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="1631:1696" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="1802:1936" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="2009:2197" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="2048:2133" ph="{...}" />
+            <marker date="1590749044765" expanded="true" signature="2242:2407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Line.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1069,54 +1099,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task163.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding>
-            <marker date="1590749044765" expanded="true" signature="57:2415" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="84:2413" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="115:246" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="330:1732" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="465:529" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="565:629" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="667:767" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="1057:1299" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="1184:1255" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="1631:1696" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="1802:1936" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="2009:2197" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="2048:2133" ph="{...}" />
-            <marker date="1590749044765" expanded="true" signature="2242:2407" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
-            <marker date="1590912429094" expanded="false" signature="6:229" ph="..." />
-            <marker date="1590912429094" expanded="true" signature="264:2100" ph="{...}" />
-            <marker date="1590912429094" expanded="true" signature="293:2098" ph="{...}" />
-            <marker date="1590912429094" expanded="true" signature="346:2092" ph="{...}" />
-            <marker date="1590912429094" expanded="true" signature="396:2082" ph="/* new Task163(); ... */" />
+            <marker date="1591007829641" expanded="false" signature="6:229" ph="..." />
+            <marker date="1591007829641" expanded="true" signature="264:2129" ph="{...}" />
+            <marker date="1591007829641" expanded="true" signature="293:2127" ph="{...}" />
+            <marker date="1591007829641" expanded="true" signature="346:2121" ph="{...}" />
+            <marker date="1591007829641" expanded="true" signature="396:2111" ph="/* new Task167(); ... */" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task168.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task167.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="-101">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding>
             <marker date="1590912421184" expanded="true" signature="57:819" ph="{...}" />
             <marker date="1590912421184" expanded="true" signature="84:817" ph="{...}" />
@@ -1124,6 +1124,31 @@
             <marker date="1590912421184" expanded="true" signature="296:637" ph="{...}" />
             <marker date="1590912421184" expanded="true" signature="670:732" ph="{...}" />
             <marker date="1590912421184" expanded="true" signature="765:811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingCodingInterview/Moderate/Task169.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+          <folding>
+            <marker date="1591015426151" expanded="true" signature="57:2123" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="84:2121" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="115:465" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="500:989" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="641:951" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="754:827" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1030:1084" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1128:1500" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1161:1228" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1312:1366" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1390:1453" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1542:1955" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1576:1670" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1830:1912" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="1987:2115" ph="{...}" />
+            <marker date="1591015426151" expanded="true" signature="2020:2082" ph="{...}" />
           </folding>
         </state>
       </provider>
