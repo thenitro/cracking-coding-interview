@@ -78,6 +78,8 @@
     <Compile Include="LinkedLists\Task28.cs" />
     <Compile Include="Moderate\Line.cs" />
     <Compile Include="Moderate\Point.cs" />
+    <Compile Include="Moderate\Task1610.cs" />
+    <Compile Include="Moderate\Task1611.cs" />
     <Compile Include="Moderate\Task163.cs" />
     <Compile Include="Moderate\Task167.cs" />
     <Compile Include="Moderate\Task169.cs" />
