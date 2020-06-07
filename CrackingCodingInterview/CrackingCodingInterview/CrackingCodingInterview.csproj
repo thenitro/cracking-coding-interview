@@ -82,6 +82,7 @@
     <Compile Include="Moderate\Task1611.cs" />
     <Compile Include="Moderate\Task1616.cs" />
     <Compile Include="Moderate\Task1617.cs" />
+    <Compile Include="Moderate\Task1618.cs" />
     <Compile Include="Moderate\Task163.cs" />
     <Compile Include="Moderate\Task167.cs" />
     <Compile Include="Moderate\Task169.cs" />
