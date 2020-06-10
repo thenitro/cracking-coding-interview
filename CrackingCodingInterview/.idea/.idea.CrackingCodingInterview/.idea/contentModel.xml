@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\timur\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\timur\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CrackingCodingInterview.-2142148835.00" t="ExcludeRecursive" />
-    <e p="D:\cracking-coding-interview\CrackingCodingInterview" t="IncludeFlat">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_CrackingCodingInterview.-320502791.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="CrackingCodingInterview" t="IncludeRecursive">
         <e p="ArraysAndStrings" t="Include">
           <e p="Task11.cs" t="Include" />
@@ -62,6 +62,7 @@
           <e p="Task1618.cs" t="Include" />
           <e p="Task1619.cs" t="Include" />
           <e p="Task1620.cs" t="Include" />
+          <e p="Task1621.cs" t="Include" />
           <e p="Task163.cs" t="Include" />
           <e p="Task167.cs" t="Include" />
           <e p="Task169.cs" t="Include" />

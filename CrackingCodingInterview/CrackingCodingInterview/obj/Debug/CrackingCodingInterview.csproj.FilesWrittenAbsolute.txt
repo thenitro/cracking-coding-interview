@@ -1,0 +1,3 @@
+/Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.exe
+/Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.pdb
