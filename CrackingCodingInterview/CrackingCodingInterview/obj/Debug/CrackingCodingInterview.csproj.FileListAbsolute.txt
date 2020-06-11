@@ -1,9 +1,3 @@
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.pdb
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csprojAssemblyReference.cache
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csproj.CoreCompileInputs.cache
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.exe
-D:/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.pdb
 E:/code/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.exe
 E:/code/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/bin/Debug/CrackingCodingInterview.pdb
 E:/code/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csprojResolveAssemblyReference.cache
@@ -15,3 +9,9 @@ E:/code/cracking-coding-interview/CrackingCodingInterview/CrackingCodingIntervie
 /Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.csproj.CoreCompileInputs.cache
 /Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.exe
 /Users/tymur/Work/cracking-coding-interview/CrackingCodingInterview/CrackingCodingInterview/obj/Debug/CrackingCodingInterview.pdb
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.exe
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\bin\Debug\CrackingCodingInterview.pdb
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csprojAssemblyReference.cache
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.csproj.CoreCompileInputs.cache
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.exe
+D:\cracking-coding-interview\CrackingCodingInterview\CrackingCodingInterview\obj\Debug\CrackingCodingInterview.pdb
