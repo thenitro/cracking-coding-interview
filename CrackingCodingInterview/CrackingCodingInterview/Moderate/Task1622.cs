@@ -152,22 +152,22 @@ namespace CrackingCodingInterview.Moderate
         {
             return new Random().Next(0, 10) > 5;
         }
-    }
-
-    internal class Node
-    {
-        public int I;
-        public int J;
-        public bool IsWhite;
-
-        public void FlipColor()
+        
+        private class Node
         {
-            IsWhite = !IsWhite;
-        }
+            public int I;
+            public int J;
+            public bool IsWhite;
 
-        public override string ToString()
-        {
-            return $"[ Node i={I}, j={J}, c={IsWhite}]";
+            public void FlipColor()
+            {
+                IsWhite = !IsWhite;
+            }
+
+            public override string ToString()
+            {
+                return $"[ Node i={I}, j={J}, c={IsWhite}]";
+            }
         }
     }
 }
