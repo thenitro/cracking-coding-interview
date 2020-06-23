@@ -68,6 +68,8 @@
     <Compile Include="GraphsAndTrees\Task48.cs" />
     <Compile Include="GraphsAndTrees\Task49.cs" />
     <Compile Include="Hard\Task1701.cs" />
+    <Compile Include="Hard\Task1702.cs" />
+    <Compile Include="Hard\Task1703.cs" />
     <Compile Include="LinkedLists\Node.cs" />
     <Compile Include="LinkedLists\Task21.cs" />
     <Compile Include="LinkedLists\Task22.cs" />
