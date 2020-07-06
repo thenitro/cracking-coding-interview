@@ -76,6 +76,7 @@
     <Compile Include="Hard\Task1708.cs" />
     <Compile Include="Hard\Task1709.cs" />
     <Compile Include="Hard\Task1710.cs" />
+    <Compile Include="Hard\Task1712.cs" />
     <Compile Include="LinkedLists\Node.cs" />
     <Compile Include="LinkedLists\Task21.cs" />
     <Compile Include="LinkedLists\Task22.cs" />
