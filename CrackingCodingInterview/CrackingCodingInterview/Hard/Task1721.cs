@@ -3,9 +3,9 @@ using System.Linq;
 
 namespace CrackingCodingInterview.Hard
 {
-    public class Task1719
+    public class Task1721
     {
-        public Task1719()
+        public Task1721()
         {
             Console.WriteLine(26 == Solution(new [] { 0, 0, 4, 0, 0, 6, 0, 0, 3, 0, 5, 0, 1, 0, 0, 0 }));
         }
